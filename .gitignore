@@ -1,0 +1,5 @@
+venv/
+matmul
+data/
+__pycache__/
+*.pyc
