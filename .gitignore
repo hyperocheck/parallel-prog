@@ -1,5 +1,8 @@
 venv/
 matmul
+gen_matrix
 data/
+out/
+/logs/
 __pycache__/
 *.pyc

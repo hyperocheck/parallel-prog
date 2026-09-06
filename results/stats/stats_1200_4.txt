@@ -1,0 +1,6 @@
+n=1200
+processes=4
+elapsed_seconds=0.574632
+flops=3456000000
+gflops=6.0143
+memory_bytes=34560000
